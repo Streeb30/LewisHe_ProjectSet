@@ -1,6 +1,3 @@
-Student name: Lewis He
-Student number: 101259286
-
 List of files:
 Array.h
 Controller.cc
